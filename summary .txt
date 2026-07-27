@@ -1,0 +1,4 @@
+___ EXPENSE SUMMARY REPORT ___
+Total Amount Spent: 7500 INR
+Highest Expense: Office Rent 5000 INR
+Status: Processd Succesfully

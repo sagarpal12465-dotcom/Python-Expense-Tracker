@@ -1,0 +1,4 @@
+Internet Bill: 500
+Electricity Bill: 1200
+Office Rent: 5000
+Food Expenses: 800
